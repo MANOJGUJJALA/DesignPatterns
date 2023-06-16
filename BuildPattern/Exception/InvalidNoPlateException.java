@@ -1,4 +1,4 @@
-package BuldPattern.Exception;
+package BuildPattern.Exception;
 
 public class InvalidNoPlateException extends RuntimeException{
     public InvalidNoPlateException() {

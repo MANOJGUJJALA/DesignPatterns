@@ -1,4 +1,4 @@
-package BuldPattern.Exception;
+package BuildPattern.Exception;
 
 public class InvalidWeightException extends RuntimeException{
 

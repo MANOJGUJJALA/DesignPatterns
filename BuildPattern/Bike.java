@@ -1,9 +1,9 @@
-package BuldPattern;
+package BuildPattern;
 
 
-import BuldPattern.Exception.InvalidNameException;
-import BuldPattern.Exception.InvalidNoPlateException;
-import BuldPattern.Exception.InvalidWeightException;
+import BuildPattern.Exception.InvalidNameException;
+import BuildPattern.Exception.InvalidNoPlateException;
+import BuildPattern.Exception.InvalidWeightException;
 
 public class Bike {
     @Override
