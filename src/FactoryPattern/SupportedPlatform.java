@@ -4,5 +4,6 @@ public enum SupportedPlatform {
 
     IOS,
     Android,
-    Windows
+    Windows,
+    MAC
 }

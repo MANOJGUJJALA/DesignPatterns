@@ -8,7 +8,7 @@ public class Client {
 
     public static void main(String[] args) {
 
-    Flutter flutter = new Flutter(SupportedPlatform.Android);
+    Flutter flutter = new Flutter(SupportedPlatform.MAC);
 
     UIFactory uiFactory=flutter.CreateUIfactory();
 
