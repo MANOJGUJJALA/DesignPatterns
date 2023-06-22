@@ -3,7 +3,6 @@ package src.ProtoTypeRegistry;
 public class Client {
 
 
-
     public static void main(String[] args) {
 
         Student may22ProtoType= new Student();
