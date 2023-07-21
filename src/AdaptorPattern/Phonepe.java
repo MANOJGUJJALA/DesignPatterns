@@ -6,7 +6,6 @@ public class Phonepe {
 
         Phonepe(){
             bankApiAdaptor=new IciciBankAdaptor();
-
             // i can change to icicbankadaptor thats it
         }
 
